@@ -1,11 +1,11 @@
 # Nature Crime Project Notes
 ## Notes By Month Taken
 ### January Notes
-[1/20/2026—ICCWC Annual Report 2024](/project-notes/nc-notes/nc-notes-documents/nc-notes-ICCWC-Annual-Report-2024.md)
+[1/20/2026—ICCWC Annual Report 2024](/nc-notes/nc-notes-documents/nc-notes-ICCWC-Annual-Report-2024.md)
 
 ### February Notes
-[IPBES Global Report on Biodiversity and Ecosystem Services](/project-notes/nc-notes/nc-notes-documents/nc-notes-IPBES-Global-Report.md)
-[ICCWC Vision 2030](/project-notes/nc-notes/nc-notes-documents/nc-notes-ICCWC-2030-Vision.md)
+[IPBES Global Report on Biodiversity and Ecosystem Services](/nc-notes/nc-notes-documents/base-nc-documents/202206_IPBES-GLOBAL-REPORT_FULL_DIGITAL_MARCH-2022.pdf)
+[ICCWC Vision 2030](/nc-notes/nc-notes-documents/nc-notes-ICCWC-2030-Vision.md)
 
 ## Notes By Organization
-### [ICCWC](/project-notes/nc-notes/nc-notes-composites/ICCWC-notes-composite.md)
+### [ICCWC](/nc-notes/nc-notes-composites/ICCWC-notes-composite.md)
