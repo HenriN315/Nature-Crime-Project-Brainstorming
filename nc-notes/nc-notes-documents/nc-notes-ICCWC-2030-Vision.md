@@ -18,6 +18,7 @@ ICCWC recognizes need for both proactive and reactive elements. Theory of Change
 
 ## Introduction
 <p align="right">pg.7</p>
+
 ![Figure 1 in document: Importance of the biosphere in achieving the sustainable development goals. Earth's biosphere underpins our societies and economices. Image shows a visual where there are three rings of SDG goals. The biggest and broadest ring that serves as the foundation for the others contains the goals "life below water," "life on land," "climate action," and "clean water and sanitation." The next ring up, of moderate size contains SDG goals pertaining to society, and the very top, smallest ring contains four SDG goals related to the economy.](/nc-notes/nc-images-screenshots/importance-of-biosphere-to-sdl-goals.png)
 
 
