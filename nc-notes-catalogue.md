@@ -4,7 +4,8 @@
 [1/20/2026—ICCWC Annual Report 2024](/nc-notes/nc-notes-documents/nc-notes-ICCWC-Annual-Report-2024.md)
 
 ### February Notes
-[IPBES Global Report on Biodiversity and Ecosystem Services](/nc-notes/nc-notes-documents/base-nc-documents/202206_IPBES-GLOBAL-REPORT_FULL_DIGITAL_MARCH-2022.pdf)
+[IPBES Global Report on Biodiversity and Ecosystem Services](/nc-notes/nc-notes-documents/nc-notes-IPBES-Global-Report.md)
+
 [ICCWC Vision 2030](/nc-notes/nc-notes-documents/nc-notes-ICCWC-2030-Vision.md)
 
 ## Notes By Organization

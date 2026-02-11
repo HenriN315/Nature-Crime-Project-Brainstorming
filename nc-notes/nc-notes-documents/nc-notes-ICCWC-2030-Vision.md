@@ -1,5 +1,3 @@
-<p align="left">Left aligned.</p> <p align="right">Right aligned.</p>
-
 # Document: [ICCWC 2030 Vision](https://iccwc-wildlifecrime.org/sites/default/files/files/2022-11/ICCWC_VISION_2030.pdf)
 # 2/8/2026 - 
 
@@ -18,10 +16,19 @@ ICCWC recognizes need for both proactive and reactive elements. Theory of Change
 4. Increased disruption and detention of ciminals.
 5. Evidence-based actions, knowledge exchange and collaboration, as a basis for the achievement of the first four outcomes and to drimve ICCWC's impact.
 
+## Introduction
+<p align="right">pg.7</p>
+![Figure 1 in document: Importance of the biosphere in achieving the sustainable development goals. Earth's biosphere underpins our societies and economices. Image shows a visual where there are three rings of SDG goals. The biggest and broadest ring that serves as the foundation for the others contains the goals "life below water," "life on land," "climate action," and "clean water and sanitation." The next ring up, of moderate size contains SDG goals pertaining to society, and the very top, smallest ring contains four SDG goals related to the economy.](/nc-notes/nc-images-screenshots/importance-of-biosphere-to-sdl-goals.png)
+
+
 
 # Things to follow up on from this document
 - [ ] Evolution of ICCWC strategies. How did the practices of ICCWC change from the [Strategic Mission 2-14-2016](https://cites.org/sites/default/files/eng/prog/iccwc/ICCWC_Strategic_Mission-WEB.pdf) to the [Strategic Programme 2016-2020](https://cites.org/sites/default/files/eng/prog/iccwc/ICCWC_Strategic_Programme_2016-2020_final.pdf)?
   - How is this 2030 plan different?
+- [ ] ICCWC Indicator Framework
+- [ ] Leaders Pledge for Nature (2022)
+- [ ] Convention on Biological Diversity
+- [ ]
 - [ ]
 - [ ]
 - [ ]
